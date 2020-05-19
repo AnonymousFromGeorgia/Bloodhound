@@ -4,8 +4,6 @@
 import os
 os.system('clear')
 
-import subprocess
-
 import signal
 
 def keyboardInterruptHandler(signal, frame):
