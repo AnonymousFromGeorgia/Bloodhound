@@ -12,3 +12,5 @@ git clone https://github.com/AnonymousFromGeorgia/Bloodhound.git
 cd Bloodhound
 python2 Bloodhound.py
 ```
+
+![Preview](https://i.ibb.co/4mRjNvy/foto-no-exif.png)
