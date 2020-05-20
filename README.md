@@ -13,4 +13,6 @@ cd Bloodhound
 python2 Bloodhound.py
 ```
 
+<h2>ფოტო</h2>
+
 ![Preview](https://i.ibb.co/4mRjNvy/foto-no-exif.png)
