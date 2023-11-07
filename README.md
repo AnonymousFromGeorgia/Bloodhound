@@ -13,7 +13,7 @@
 ```bash
 git clone https://github.com/AnonymousFromGeorgia/Bloodhound.git
 cd Bloodhound
-python2 Bloodhound.py
+python3 Bloodhound.py
 ```
 
 <h2>ფოტო</h2>
